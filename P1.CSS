@@ -1,0 +1,88 @@
+div{
+    /* border: 0px solid hsl(30, 38%, 92%); */
+    background-color: hsl(30, 38%, 92%);
+}
+.D1{
+    padding: 100px 0px 100px 408px;
+}
+.txt{
+    font-family: 'Montserrat', sans-serif;
+    border: 0px solid hsl(30, 38%, 92%);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.D2{
+    width: 291px;
+    height: 90px;
+    margin: -548px 100px 300px 698px;
+}
+.txt1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 80%;
+    color: hsl(212, 21%, 14%);
+    background-color: white;
+    padding: 30px;
+    border-radius: 200px solid white;
+    border: 0px solid hsl(30, 38%, 92%);
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    
+}
+.txt2{
+    font-family: 'Fraunces', serif;
+    font-size: 220%;
+    font-weight: 700;
+    background-color: white;
+    padding: 30px;
+    margin: -45px 0px 0px 0px;
+    text-transform: capitalize;
+    line-height: 35px;
+}
+.txt3{
+    background-color: white;
+    padding: 30px;
+    margin: -30px 0px 0px 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 90%;
+    color: gray;
+    line-height: 25PX;
+}
+.txt4{
+    height: 88px;
+    background-color: white;
+    padding: 30px;
+    margin: -35px 0px 0px 0px;
+    font-family: 'Fraunces', serif;
+    font-size: 230%;
+    font-weight: 800;
+    color: hsl(158, 36%, 37%);
+    border: 5px solid white;;
+    border-bottom-right-radius: 20px;
+    margin: -40px 0px 0px -10px;
+}
+.txt5{
+    background-color: white;
+    padding: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 85%;
+    color: gray;
+    text-decoration: line-through;
+    margin: -135px 0px 40px 150px;
+}
+.txt6{
+    width: 150px;
+    height: 20px;
+    background-color: hsl(158, 36%, 37%);
+    padding: 5px 30px 5px 50px;
+    border: 5px solid hsl(158, 36%, 37%);;
+    border-radius: 10px;
+    margin: -45px 0px 0px 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 90%;
+    color: white;
+}

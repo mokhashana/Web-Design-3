@@ -1,0 +1,27 @@
+.A1{
+    width: 400px;
+    height: 130px;
+    font-size: 130%;
+    background-color: lightgrey;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+.A2{
+    width: 400px;
+    height: 18px;
+    font-size: 130%;
+    background-color: lightgrey;
+    padding: 10px;
+    overflow: hidden;
+    margin-bottom: 25px;
+}
+.A3{
+    width: 400px;
+    height: 18px;
+    font-size: 145%;
+    background-color: lightgrey;
+    padding: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
